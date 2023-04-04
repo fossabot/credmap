@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Froubir%2Fcredmap.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Froubir%2Fcredmap?ref=badge_shield)
+
 credmap: The Credential Mapper
 ===
 
@@ -43,3 +45,6 @@ cd credmap
 docker build -t credmap .
 docker run -it credmap
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Froubir%2Fcredmap.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Froubir%2Fcredmap?ref=badge_large)
